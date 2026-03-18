@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Department of Electrical and Computer Engineering at [George Mason University](https://www.gmu.edu/), advised by [Prof. Weiwen Jiang](https://mason.gmu.edu/~wjiang8/). I received my B.E. in Computer Science and Technology from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
+I am a first-year PhD student in the Department of Electrical and Computer Engineering at [George Mason University](https://www.gmu.edu/), advised by [Prof. Weiwen Jiang](https://ece.gmu.edu/profiles/wjiang8). I received my B.E. in Computer Science and Technology from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
 
 ## Research Interests
 
