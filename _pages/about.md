@@ -26,20 +26,4 @@ I am drawn to interdisciplinary problems that connect machine learning, physical
 ## Education
 
 - **Ph.D. in Electrical and Computer Engineering**, George Mason University, 2025 - Present
-- **B.E. in Computer Science and Technology**, Zhejiang University, 2018 - 2022  Ehdaurcdawtairoen,
-
--  a-n d* *pPhhy.sDi.c ailn  mEoldeecltsr itcoa la dadnrde sCso mipmuptoerrt aEnntg icnheaelrlienngg*e*s,  iGne osregnes iMnags,o nc oUmnpiuvteirnsgi,t ya,n d2 0e2m5e r-g iPnrge steencth
--  n-o l*o*gBi.eEs..
--  i
--  n# #C oNmepwust
--  e
--  r-  S*c*i[eJnucne  2a0n2d6 ]T*e*c hOnnoel opgayp*e*r,  aZchceejpitaendg  aUtn i*v*eDrAsCi t2y0,2 62*0*1 8( D-e s2i0g2n2
--  Automation Conference).
--  - **[Mar 2026]** One paper submitted to **ICASSP 2026**.
-   - - **[Jan 2025]** Started my PhD at George Mason University.
-    
-     - ## Education
-    
-     - - **Ph.D. in Electrical and Computer Engineering**, George Mason University, 2025 - Present
-       - - **B.E. in Computer Science and Technology**, Zhejiang University, 2018 - 2022
-         - 
+- **B.E. in Computer Science and Technology**, Zhejiang University, 2018 - 2022
