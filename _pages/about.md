@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Department of Electrical and Computer Engineering at [George Mason University](https://www.gmu.edu/), advised by [Prof. Weiwen Jiang](https://ece.gmu.edu/profiles/wjiang8). I received my B.E. in Computer Science and Technology from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
+I am a second-year PhD student in the Department of Electrical and Computer Engineering at [George Mason University](https://www.gmu.edu/), advised by [Prof. Weiwen Jiang](https://ece.gmu.edu/profiles/wjiang8). I received my B.E. in Computer Science and Technology from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
 
 ## Research Interests
 
@@ -19,8 +19,9 @@ I am drawn to interdisciplinary problems that connect machine learning, physical
 
 ## News
 
+- **[Jul 2026]** One paper accepted at **CODES+ISSS 2026** (to appear in IEEE TCAD).
+- **[Jul 2026]** Selected as a **DAC 2026 Young Fellow**.
 - **[Jun 2026]** One paper accepted at **DAC 2026** (Design Automation Conference).
-- **[Mar 2026]** One paper submitted to **ICASSP 2026**.
 - **[Jan 2025]** Started my PhD at George Mason University.
 
 ## Education
